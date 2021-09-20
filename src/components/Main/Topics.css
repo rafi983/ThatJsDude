@@ -1,0 +1,17 @@
+.all-topics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 90%;
+  margin: 50px 0 0 50px;
+}
+.topic-title {
+  font-size: 30px;
+  color: #3276b1;
+}
+.topic-desc {
+  font-size: 0.8rem;
+}
+.concept {
+  background-color: #f9f2f4;
+  color: #c7254e;
+}

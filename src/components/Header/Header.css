@@ -6,3 +6,10 @@
 .workshop-heading {
   font-size: 4rem;
 }
+#react-link {
+  text-decoration: none;
+  color: #3276b1;
+}
+.learn {
+  background-color: #3276b1;
+}
