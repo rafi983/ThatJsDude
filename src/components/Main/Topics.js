@@ -61,7 +61,8 @@ const Topics = () => {
           <span className="concept">call,</span>
           <span className="concept">apply,</span>{" "}
           <span className="concept">prototype,</span>{" "}
-          <span className="concept">event delegation,</span> <span>dom,</span>{" "}
+          <span className="concept">event delegation,</span>{" "}
+          <span className="concept">dom,</span>{" "}
           <span className="concept">timers</span> and many more caveats.
         </p>
       </div>
