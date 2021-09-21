@@ -82,7 +82,7 @@ const Topic = (props) => {
       <div>
         <h1 className="topic-title">{title}</h1>
         <p className="topic-desc">{desc}</p>
-        <button className="btn btn-outline-secondary">View detailss</button>
+        <button className="btn btn-outline-secondary">View detailssss</button>
       </div>
     </div>
   );
